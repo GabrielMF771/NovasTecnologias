@@ -8,3 +8,9 @@ Esse repositório foi criado para salvar e documentar os materiais e atividades 
 - 2 - Estruturas de Controle
 
 - 3 - Coleções em Python
+
+- 4 - Dicionários e Funções
+
+- 5 - Bibliotecas internas
+
+- 6 - Orientação a Objetos com Python
